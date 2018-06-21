@@ -15,8 +15,10 @@
 
 > 📌 与**百塔工具**达成合作，将为百塔开发一套基于视觉识别和云端管理的工具管理系统
 
+
 ## 区块链项目
-**公司已完成ICO，请下载[VIOT](https://exp-shell-app-assets.s3-us-west-1.amazonaws.com/android%2F%40nofaketoday%2Fviot_wallet-b91e3bf6-74f0-11e8-bde1-0a580a78040c-signed.apk)钱包了解更多信息。**
+公司已完成ICO，请下载[**VIOT**](https://exp-shell-app-assets.s3-us-west-1.amazonaws.com/android%2F%40nofaketoday%2Fviot_wallet-b91e3bf6-74f0-11e8-bde1-0a580a78040c-signed.apk)钱包了解更多信息。
+
 
 ## 开发者平台
 ### 功能支持
